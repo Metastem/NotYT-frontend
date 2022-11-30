@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>{data.searchTerm} - NotYoutube</title>
+    <title>{data.searchTerm} - Metastem Youtube</title>
 </svelte:head>
 <div class="video-card-container">
     {#each data.data as item}
