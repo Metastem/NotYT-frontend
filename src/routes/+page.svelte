@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>NotYoutube | Home</title>
+    <title>Metastem Youtube | Home</title>
 </svelte:head>
 <!-- FILL WITH TRENDING/POPULAR -->
 
